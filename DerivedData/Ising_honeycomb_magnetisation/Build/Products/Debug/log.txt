@@ -1,0 +1,7 @@
+--- Simulation Log ---
+Date: Sun Jan 11 04:34:46 2026
+L: 4, MCS: 1000000, THERM: 1000
+Num_beta: 20 (0.6 to 0.7)
+Elapsed time: 71.84 seconds
+-----------------------
+
