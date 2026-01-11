@@ -6,10 +6,10 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>F2F9E09C-68EA-4CFB-ADE9-3948CD3FF14F</key>
+		<key>8E7B06E2-F114-490C-8FF8-11976D9646FC</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>CB9B6655-28B2-465B-8FE6-00A977AD7B96</string>
+			<string>EE74D8AB-2F74-4224-8859-6E2AA344910B</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -30,7 +30,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Ising_honeycomb_magnetisation-2026.01.11_04-33-30-+0900.xcresult</string>
+			<string>Run-Ising_honeycomb_magnetisation-2026.01.11_12-00-12-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -59,13 +59,13 @@
 			<key>signature</key>
 			<string>Run Ising_honeycomb_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789766410.04406595</real>
+			<real>789793212.96757996</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Ising_honeycomb_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>F2F9E09C-68EA-4CFB-ADE9-3948CD3FF14F</string>
+			<string>8E7B06E2-F114-490C-8FF8-11976D9646FC</string>
 		</dict>
 	</dict>
 </dict>

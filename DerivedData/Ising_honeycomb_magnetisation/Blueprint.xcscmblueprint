@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C4C59BA5AC4C39698005CABAA04C15DDADF35632",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C4C59BA5AC4C39698005CABAA04C15DDADF35632" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0FF0A8F4-4B3C-4B0B-B56A-DB94FFEC0C07",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C4C59BA5AC4C39698005CABAA04C15DDADF35632" : "Ising_honeycomb_magnetisation\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Ising_honeycomb_magnetisation",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Ising_honeycomb_magnetisation.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/grandantiprism\/Ising_honeycomb_magnetisation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C4C59BA5AC4C39698005CABAA04C15DDADF35632"
+    }
+  ]
+}
