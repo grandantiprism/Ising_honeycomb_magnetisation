@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'Ising_honeycomb_magnetisation' in project 'Ising_honeycomb_magnetisation' (no dependencies)
