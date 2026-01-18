@@ -56,9 +56,13 @@ def plot_all_sizes(root_dir):
     # 2. enumerateを使ってインデックス i を取得し、マーカーを切り替える
     for i, folder in enumerate(folders):
         path = os.path.join(root_dir, folder)
+        
+        if folder.split("x")[0] not in [str(l) for l in l_list]:
+            continue
+
         print(f"Processing folder: {folder}...")
         betas, u4 = get_binder_data(path)
-        
+
         if len(betas) > 0:
             # markers[i % len(markers)] でリストを使い回す
             plt.plot(betas, u4, 
@@ -84,5 +88,8 @@ def plot_all_sizes(root_dir):
 # --- 実行 ---
 # C++コードが生成したディレクトリがカレントディレクトリにある場合は "."
 # "output" というフォルダにまとめている場合は "output" を指定してください
+
+l_list = [16, 24, 32, 48, 64, 96, 128]
+
 root_directory = "." 
 plot_all_sizes(root_directory)

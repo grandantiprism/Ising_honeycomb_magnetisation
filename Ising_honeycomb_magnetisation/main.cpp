@@ -13,7 +13,7 @@ using namespace std;
 namespace fs = std::filesystem;
 
 // シミュレーションパラメータの設定
-const int L = 128;            // 格子サイズ (L x L)
+const int L = 24;            // 格子サイズ (L x L)
 const int N = L * L;        // 全スピン数
 const int MCS = 1000000;      // 各温度でのモンテカルロステップ数
 const int THERM = (L < 64) ? 1000 : L * 20;     // 熱平衡化のための捨てステップ数

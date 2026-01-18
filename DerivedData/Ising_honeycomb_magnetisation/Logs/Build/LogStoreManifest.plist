@@ -6,6 +6,48 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>17F43F44-A28C-4851-B617-E96EF9885E2E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>17F43F44-A28C-4851-B617-E96EF9885E2E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ising_honeycomb_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ising_honeycomb_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Ising_honeycomb_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>790434877.30206096</real>
+			<key>timeStoppedRecording</key>
+			<real>790434885.61489904</real>
+			<key>title</key>
+			<string>Build Ising_honeycomb_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>17F43F44-A28C-4851-B617-E96EF9885E2E</string>
+		</dict>
 		<key>3A836AE7-CE84-4175-903B-234D163B5EBF</key>
 		<dict>
 			<key>className</key>
@@ -47,6 +89,90 @@
 			<string>Build Ising_honeycomb_magnetisation</string>
 			<key>uniqueIdentifier</key>
 			<string>3A836AE7-CE84-4175-903B-234D163B5EBF</string>
+		</dict>
+		<key>A715D64E-E226-42A3-B90B-FE37A5B661F9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A715D64E-E226-42A3-B90B-FE37A5B661F9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ising_honeycomb_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ising_honeycomb_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Ising_honeycomb_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>790411785.86882496</real>
+			<key>timeStoppedRecording</key>
+			<real>790411788.89430106</real>
+			<key>title</key>
+			<string>Build Ising_honeycomb_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>A715D64E-E226-42A3-B90B-FE37A5B661F9</string>
+		</dict>
+		<key>EF6528EB-E3CD-4508-8E9D-870465EF3ED1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EF6528EB-E3CD-4508-8E9D-870465EF3ED1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ising_honeycomb_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ising_honeycomb_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Ising_honeycomb_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>790441581.51722002</real>
+			<key>timeStoppedRecording</key>
+			<real>790441583.10161901</real>
+			<key>title</key>
+			<string>Build Ising_honeycomb_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>EF6528EB-E3CD-4508-8E9D-870465EF3ED1</string>
 		</dict>
 	</dict>
 </dict>
